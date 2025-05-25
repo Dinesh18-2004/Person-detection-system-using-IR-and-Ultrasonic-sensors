@@ -3,14 +3,14 @@
 #include <UniversalTelegramBot.h>    
 
 // Replace with your Wi-Fi credentials
-const char* ssid = "DSL";
-const char* password = "gprec#iot";
+const char* ssid = "Replace with your wifi username";
+const char* password = "Passworsd";
 
 // Replace with your Telegram bot token from BotFather
-#define BOT_TOKEN "8064739614:AAHnlyYGriVl2JERLNeFgyM4KeXXDG0LbB4"
+#define BOT_TOKEN " "
 
 // Replace with your chat ID
-#define CHAT_ID "5519942536"
+#define CHAT_ID " "
 
 // IR sensor pin
 const int IR_PIN = 14;
